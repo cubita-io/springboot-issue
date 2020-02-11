@@ -40,7 +40,7 @@
         </dependency>
         <!-- database end -->
 
-        <!-- if delete this, then normal -->
+        <!-- if delete this, then ok -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
